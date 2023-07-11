@@ -2,9 +2,10 @@
 
 Task Tracker built using Angular and JSON-server as mock backend
 
-![](https://github.com/AnasAlRimawi/Task-Tracker-Angular/blob/master/demo.gif)
+![demo](https://github.com/AnasAlRimawi/Task-Tracker-Angular/assets/104005871/74871fed-9b82-46d3-becf-491fd41db0b0)
 
 ## Usage
+
 
 ### Install dependencies
 
