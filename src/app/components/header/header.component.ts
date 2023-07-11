@@ -21,7 +21,7 @@ export class HeaderComponent {
     this.uiService.toggleAddTask();
   }
 
-  hasRouter(route:string){
+  hasRoute(route:string){
     return this.router.url == route;
   }
 
